@@ -1,17 +1,12 @@
-* {
+	* {
 		box-sizing: border-box;
 		text-align: center;
 	}
-
 	menu-list {
 		width: 100%;
-
 	}
 	p {
 		margin-top: 7%;
-
-
-
 	}
 	h3 {
 		border: 2px solid black;
@@ -22,19 +17,14 @@
 	}
 	.varenyky {
 		background-color: blue;
-
 	}
-
 	.borsch {
 		background-color: yellow;
 		color: black;
 	}
-
 	.holubci {
 		background-color: red;
 	}
-
-
 	/* Large devices */
 	@media (min-width: 992px) {
 		.col-lg-4 {
